@@ -1,19 +1,20 @@
 .App {
   text-align: center;
   min-height: 100vh;
-  background: url('assets/food.jpg');
+  background: url('assets/food2.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+
+  background-color: whitesmoke;
 }
 
 .Title {
-
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: rgb(0, 0, 0);
-  
+  color: rgba(2, 2, 2, 0.664);
+  font-weight: 900;
   padding: 10px;
-  margin: 20px;
-  border-radius: 10px;
-  background-color: rgba(255, 255, 255, 0.150);
-  backdrop-filter: blur(4px);
+  font-size: 30px;
+  background-color: rgba(155, 152, 152, 0.15);
+  backdrop-filter: blur(20px);
 
 
 }

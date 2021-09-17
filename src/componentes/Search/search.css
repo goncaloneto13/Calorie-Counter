@@ -1,21 +1,20 @@
 .search{
-    padding: 50px;
+    padding: 30px;
     justify-content: flex-end;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(20px);
     margin: 20px;
     border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.150);
+    background-color: rgba(155, 152, 152, 0.178);
 
 }
 
 .search input{
-    background-color: whitesmoke;
+    background-color: rgba(211, 211, 211, 0.424);
     border-style: hidden;
     font-size: 20px;
-    justify-content: flex-end;
     padding: 10px;
     border-radius: 10px;
-
+    width: 60%;
 
 }
 .search button{
@@ -24,5 +23,9 @@
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    border-style: none;
+    background-color: rgba(245, 245, 245, 0.52);
+    font-size: 20px;
+    
     
 }

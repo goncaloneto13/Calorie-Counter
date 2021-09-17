@@ -5,10 +5,9 @@ import Result from './componentes/Result/result';
 function App() {
   return (
     <div className="App">
-      .
-      <h1 className='Title'>
+      <div className='Title'>
         Contador de calorias
-      </h1>
+      </div>
       <Search></Search>
       <Result></Result>
     </div>
