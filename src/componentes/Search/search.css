@@ -1,0 +1,28 @@
+.search{
+    padding: 50px;
+    justify-content: flex-end;
+    backdrop-filter: blur(4px);
+    margin: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.150);
+
+}
+
+.search input{
+    background-color: whitesmoke;
+    border-style: hidden;
+    font-size: 20px;
+    justify-content: flex-end;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+.search button{
+    color:rgb(63, 47, 47);
+    font-weight: 500;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
