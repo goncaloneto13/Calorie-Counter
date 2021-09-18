@@ -1,6 +1,8 @@
 .Result{
-    height: 300px;
-    
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
     backdrop-filter: blur(20px);
     background-color: rgba(155, 152, 152, 0.15);
     margin:20px;

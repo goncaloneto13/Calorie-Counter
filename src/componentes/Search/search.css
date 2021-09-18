@@ -1,4 +1,5 @@
 .search{
+    display: flex;
     padding: 30px;
     justify-content: flex-end;
     backdrop-filter: blur(20px);
@@ -9,7 +10,7 @@
 }
 
 .search input{
-    background-color: rgba(211, 211, 211, 0.424);
+    background-color: rgba(255, 255, 255, 0.424);
     border-style: hidden;
     font-size: 20px;
     padding: 10px;
